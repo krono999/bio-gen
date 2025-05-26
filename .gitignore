@@ -1,3 +1,10 @@
-venv/          
-__pycache__/   
-*.pyc         
+
+venv/
+
+__pycache__/
+*.pyc
+
+output/
+data/input_patterns/
+
+.ipynb_checkpoints/
